@@ -14,7 +14,7 @@ Designed to practice layout, typography, and modern UI composition.
 - CSS
 
 <p align="center">
-  <img src="preview.png" width="800">
+  <img src="Preview.png" width="800">
 </p>
 
 ## 🚀 Live Demo
