@@ -13,6 +13,10 @@ Designed to practice layout, typography, and modern UI composition.
 - HTML
 - CSS
 
+<p align="center">
+  <img src="preview.png" width="800">
+</p>
+
 ## 🚀 Live Demo
 https://vedantthorat24.github.io/my-hero-academia-landing-page/
 ---
